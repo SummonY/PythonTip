@@ -1,0 +1,4 @@
+# ignore vim temport file
+.*.swp
+
+.ropeproject/*
